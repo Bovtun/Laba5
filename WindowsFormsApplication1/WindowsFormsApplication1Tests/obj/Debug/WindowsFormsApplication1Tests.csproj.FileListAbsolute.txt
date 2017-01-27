@@ -1,0 +1,11 @@
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1Tests.dll
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1Tests.pdb
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.dll
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.pdb
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\Interop.DataCollectorTasks.dll
+C:\Users\123\Desktop\4.1\Project\WindowsFormsApplication1\WindowsFormsApplication1Tests\obj\Debug\WindowsFormsApplication1Tests.csproj.ResolveComReference.cache
